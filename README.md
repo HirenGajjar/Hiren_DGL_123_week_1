@@ -26,3 +26,29 @@ Environment Setup
         ?>
  </h1>
  ```
+
+
+**Video 4**
+- Declaration of a variable
+- Passing a value to the variable
+- Initializing a variable
+- Use of period (.) to concatenate two strings
+- The slight difference between single quotes ('') and double quotes ("")
+
+```PHP
+
+<h1>
+        <?php
+        // echo " Hello World";
+
+        // Creating First Variable
+        
+        $greetings = "Hellowww";
+
+        echo $greetings." "."NIC";
+        
+        // print "$greetings Everyone";
+        ?>
+    </h1>
+
+```
