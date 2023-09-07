@@ -8,3 +8,10 @@ Repo link
 
 ** Video 1 ** Learning 
 - Learning or using a programming language is more about the environment than anything else.
+
+**Video 2** 
+##Environemnt Setup
+
++ Installing VS Code
++ Installing Mysql
++ Installing TablePlus
