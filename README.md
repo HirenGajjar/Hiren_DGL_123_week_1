@@ -4,3 +4,7 @@ Week_1 reposetory
 
 Repo link
 -https://github.com/HirenGajjar/Hiren_DGL_123_week_1
+
+
+** Video 1 ** Learning 
+- Learning or using a programming language is more about the environment than anything else.
