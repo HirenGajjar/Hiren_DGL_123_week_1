@@ -8,9 +8,18 @@
 </head>
 
 <body>
+   <!--Week 1 - First PHP code! -->
     <h1>
         <?php
-        echo " Hello World";
+        // echo " Hello World";
+
+        // Creating First Variable
+        
+        $greetings = "Hellowww";
+
+        echo $greetings." "."NIC";
+        
+        // print "$greetings Everyone";
         ?>
     </h1>
 </body>
